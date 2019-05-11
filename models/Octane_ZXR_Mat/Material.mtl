@@ -1,0 +1,41 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Body
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.531324 0.800000 0.396778
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Body_O2_MIC_Normal.png
+map_Kd Body_O2_MIC_BaseColor3.png
+map_Ns Body_O2_MIC_Roughness.png
+refl Body_O2_MIC_Metallic.png
+
+newmtl Chassis
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.302331 0.401093 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Chassis_O2_MIC_Normal.png
+map_Kd Chassis_O2_MIC_BaseColor3.png
+map_Ns Chassis_O2_MIC_Roughness.png
+refl Chassis_O2_MIC_Metallic.png
+
+newmtl Headlights
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.013784 0.450634 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd HeadlightLens_BaseColor.png
